@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-348' visible='true' lat='-37.8211581' lon='144.9550498' />
+  <node id='-346' visible='true' lat='-37.8211416' lon='144.9551161' />
+  <node id='-344' visible='true' lat='-37.8174886' lon='144.9676326' />
+  <node id='-342' visible='true' lat='-37.8174705' lon='144.9676941' />
+  <node id='-340' visible='true' lat='-37.8169759' lon='144.9693762' />
+  <node id='-338' visible='true' lat='-37.8167372' lon='144.9696843' />
+  <node id='-336' visible='true' lat='-37.8168442' lon='144.9693154' />
+  <node id='-334' visible='true' lat='-37.8171622' lon='144.9682058' />
+  <node id='-332' visible='true' lat='-37.8172189' lon='144.9680139' />
+  <node id='-330' visible='true' lat='-37.8172864' lon='144.9677858' />
+  <node id='-328' visible='true' lat='-37.8173557' lon='144.9675515' />
+  <node id='-326' visible='true' lat='-37.8173844' lon='144.9674523' />
+  <node id='-324' visible='true' lat='-37.8173887' lon='144.9674374' />
+  <node id='-322' visible='true' lat='-37.8173931' lon='144.9674225' />
+  <node id='-320' visible='true' lat='-37.8173972' lon='144.9674084' />
+  <node id='-318' visible='true' lat='-37.8174026' lon='144.9673919' />
+  <node id='-316' visible='true' lat='-37.8174441' lon='144.9672473' />
+  <node id='-314' visible='true' lat='-37.8174781' lon='144.9671307' />
+  <node id='-312' visible='true' lat='-37.8175952' lon='144.9667285' />
+  <node id='-310' visible='true' lat='-37.8177849' lon='144.9660773' />
+  <node id='-308' visible='true' lat='-37.8178063' lon='144.9660039' />
+  <node id='-306' visible='true' lat='-37.8178418' lon='144.965882' />
+  <node id='-304' visible='true' lat='-37.818074' lon='144.9650851' />
+  <node id='-302' visible='true' lat='-37.8180945' lon='144.9650143' />
+  <node id='-300' visible='true' lat='-37.8181184' lon='144.9649318' />
+  <node id='-298' visible='true' lat='-37.8181438' lon='144.9648496' />
+  <node id='-296' visible='true' lat='-37.8181763' lon='144.9647321' />
+  <node id='-294' visible='true' lat='-37.8182286' lon='144.9645541' />
+  <node id='-292' visible='true' lat='-37.8183458' lon='144.9641397' />
+  <node id='-290' visible='true' lat='-37.8186767' lon='144.9630157' />
+  <node id='-288' visible='true' lat='-37.818701' lon='144.9629321' />
+  <node id='-286' visible='true' lat='-37.8190083' lon='144.9618741' />
+  <node id='-284' visible='true' lat='-37.8191333' lon='144.9614422' />
+  <node id='-282' visible='true' lat='-37.819178' lon='144.9612877' />
+  <node id='-280' visible='true' lat='-37.8192017' lon='144.9612059' />
+  <node id='-278' visible='true' lat='-37.8192236' lon='144.9611303' />
+  <node id='-276' visible='true' lat='-37.8192375' lon='144.9610823' />
+  <node id='-274' visible='true' lat='-37.8192474' lon='144.9610481' />
+  <node id='-272' visible='true' lat='-37.8211212' lon='144.955198' />
+  <node id='-270' visible='true' lat='-37.8211046' lon='144.9552586' />
+  <node id='-268' visible='true' lat='-37.8210903' lon='144.9553112' />
+  <node id='-266' visible='true' lat='-37.821004' lon='144.9556207' />
+  <node id='-264' visible='true' lat='-37.820961' lon='144.9557647' />
+  <node id='-262' visible='true' lat='-37.8209248' lon='144.9558626' />
+  <node id='-260' visible='true' lat='-37.8208675' lon='144.956' />
+  <node id='-258' visible='true' lat='-37.8208276' lon='144.9561187' />
+  <node id='-256' visible='true' lat='-37.8208049' lon='144.9561953' />
+  <node id='-254' visible='true' lat='-37.8206648' lon='144.9566673' />
+  <node id='-252' visible='true' lat='-37.8206455' lon='144.9567325' />
+  <node id='-250' visible='true' lat='-37.8206097' lon='144.9568547' />
+  <node id='-248' visible='true' lat='-37.8204964' lon='144.9572389' />
+  <node id='-246' visible='true' lat='-37.8204885' lon='144.9572713' />
+  <node id='-244' visible='true' lat='-37.8204661' lon='144.9573683' />
+  <node id='-242' visible='true' lat='-37.8204541' lon='144.9574207' />
+  <node id='-240' visible='true' lat='-37.8204349' lon='144.957499' />
+  <node id='-238' visible='true' lat='-37.8203966' lon='144.9576584' />
+  <node id='-236' visible='true' lat='-37.8203771' lon='144.9577362' />
+  <node id='-234' visible='true' lat='-37.8203636' lon='144.9577833' />
+  <node id='-232' visible='true' lat='-37.8203199' lon='144.9579532' />
+  <node id='-230' visible='true' lat='-37.8202592' lon='144.9581321' />
+  <node id='-228' visible='true' lat='-37.8202016' lon='144.9582691' />
+  <node id='-226' visible='true' lat='-37.8201546' lon='144.9583914' />
+  <node id='-224' visible='true' lat='-37.8201066' lon='144.9585064' />
+  <node id='-222' visible='true' lat='-37.8200673' lon='144.9586124' />
+  <node id='-220' visible='true' lat='-37.8200136' lon='144.9587733' />
+  <node id='-218' visible='true' lat='-37.8199719' lon='144.958903' />
+  <node id='-216' visible='true' lat='-37.8199269' lon='144.95905' />
+  <node id='-214' visible='true' lat='-37.8197791' lon='144.9596537' />
+  <node id='-212' visible='true' lat='-37.8197185' lon='144.9599089' />
+  <node id='-210' visible='true' lat='-37.819643' lon='144.9601982' />
+  <node id='-208' visible='true' lat='-37.8196158' lon='144.9603024' />
+  <node id='-206' visible='true' lat='-37.8194373' lon='144.9609862' />
+  <node id='-204' visible='true' lat='-37.819421' lon='144.9610485' />
+  <node id='-202' visible='true' lat='-37.819402' lon='144.9611183' />
+  <node id='-200' visible='true' lat='-37.8193926' lon='144.9611525' />
+  <node id='-198' visible='true' lat='-37.8193792' lon='144.9612018' />
+  <node id='-196' visible='true' lat='-37.8193704' lon='144.9612317' />
+  <node id='-194' visible='true' lat='-37.819279' lon='144.9615442' />
+  <node id='-192' action='modify' visible='true' lat='-37.81912910015' lon='144.962045' />
+  <node id='-190' visible='true' lat='-37.8188115' lon='144.9625514' />
+  <node id='-188' visible='true' lat='-37.8188564' lon='144.9623989' />
+  <node id='-186' visible='true' lat='-37.8189792' lon='144.9625458' />
+  <node id='-184' visible='true' lat='-37.8189256' lon='144.9627289' />
+  <node id='-182' visible='true' lat='-37.8184937' lon='144.9642026' />
+  <node id='-180' visible='true' lat='-37.8183028' lon='144.9648543' />
+  <node id='-178' visible='true' lat='-37.8182959' lon='144.9648777' />
+  <node id='-176' visible='true' lat='-37.8182266' lon='144.9651144' />
+  <node id='-174' visible='true' lat='-37.8182151' lon='144.9651534' />
+  <node id='-172' visible='true' lat='-37.8181984' lon='144.9652105' />
+  <node id='-170' visible='true' lat='-37.8179505' lon='144.9660565' />
+  <node id='-168' visible='true' lat='-37.8179402' lon='144.9660917' />
+  <node id='-166' visible='true' lat='-37.8178645' lon='144.9663502' />
+  <node id='-164' visible='true' lat='-37.8176145' lon='144.967221' />
+  <node id='-162' visible='true' lat='-37.8175628' lon='144.9673906' />
+  <node id='-160' visible='true' lat='-37.8175134' lon='144.9675486' />
+  <node id='-158' visible='true' lat='-37.8214326' lon='144.9534869' />
+  <node id='-156' visible='true' lat='-37.8215629' lon='144.953066' />
+  <node id='-154' visible='true' lat='-37.8217121' lon='144.9525596' />
+  <node id='-152' visible='true' lat='-37.8217542' lon='144.9523777' />
+  <node id='-150' visible='true' lat='-37.8210279' lon='144.9548593' />
+  <node id='-148' visible='true' lat='-37.8210424' lon='144.9548196' />
+  <node id='-146' visible='true' lat='-37.8212174' lon='144.9542421' />
+  <node id='-144' visible='true' lat='-37.8213485' lon='144.9537613' />
+  <node id='-142' visible='true' lat='-37.8213897' lon='144.9536252' />
+  <node id='-140' visible='true' lat='-37.821765' lon='144.9522671' />
+  <node id='-138' visible='true' lat='-37.8217763' lon='144.9519159' />
+  <node id='-136' visible='true' lat='-37.8167966' lon='144.9699858' />
+  <node id='-134' visible='true' lat='-37.8167499' lon='144.9701449' />
+  <node id='-132' visible='true' lat='-37.8164339' lon='144.9712214' />
+  <node id='-130' visible='true' lat='-37.8212951' lon='144.954598' />
+  <node id='-128' visible='true' lat='-37.8211946' lon='144.9549192' />
+  <node id='-126' visible='true' lat='-37.8211755' lon='144.9549802' />
+  <node id='-124' visible='true' lat='-37.8192616' lon='144.960999' />
+  <node id='-122' visible='true' lat='-37.8192844' lon='144.9609106' />
+  <node id='-120' visible='true' lat='-37.8192911' lon='144.9608846' />
+  <node id='-118' visible='true' lat='-37.819498' lon='144.960084' />
+  <node id='-116' visible='true' lat='-37.8195447' lon='144.9599034' />
+  <node id='-114' visible='true' lat='-37.8195852' lon='144.9597626' />
+  <node id='-112' visible='true' lat='-37.8197944' lon='144.9590356' />
+  <node id='-110' visible='true' lat='-37.8200286' lon='144.9582187' />
+  <node id='-108' visible='true' lat='-37.8201983' lon='144.957654' />
+  <node id='-106' visible='true' lat='-37.8202215' lon='144.9575737' />
+  <node id='-104' visible='true' lat='-37.8202785' lon='144.957434' />
+  <node id='-102' visible='true' lat='-37.8203066' lon='144.9573618' />
+  <node id='-100' visible='true' lat='-37.8203148' lon='144.9573314' />
+  <node id='-98' visible='true' lat='-37.8204088' lon='144.9570111' />
+  <node id='-96' visible='true' lat='-37.8204972' lon='144.9567089' />
+  <node id='-94' visible='true' lat='-37.82072' lon='144.9559442' />
+  <node id='-92' visible='true' lat='-37.8208911' lon='144.9553632' />
+  <node id='-90' visible='true' lat='-37.8209432' lon='144.9551861' />
+  <node id='-88' visible='true' lat='-37.8209609' lon='144.9551265' />
+  <node id='-86' visible='true' lat='-37.8209742' lon='144.9550739' />
+  <node id='-84' visible='true' lat='-37.8209833' lon='144.9550376' />
+  <node id='-82' visible='true' lat='-37.8209917' lon='144.9550047' />
+  <node id='-80' visible='true' lat='-37.8209978' lon='144.9549805' />
+  <node id='-78' visible='true' lat='-37.8210097' lon='144.9549332' />
+  <node id='-76' visible='true' lat='-37.8160004' lon='144.9721498' />
+  <node id='-74' visible='true' lat='-37.816547' lon='144.9703239' />
+  <node id='-72' visible='true' lat='-37.8166527' lon='144.9699706' />
+  <node id='-70' visible='true' lat='-37.8167058' lon='144.9697926' />
+  <node id='-68' visible='true' lat='-37.8216303' lon='144.9535812' />
+  <node id='-66' visible='true' lat='-37.8215397' lon='144.9538489' />
+  <node id='-64' visible='true' lat='-37.8214827' lon='144.9540778' />
+  <node id='-62' visible='true' lat='-37.8214323' lon='144.9542515' />
+  <node id='-60' visible='true' lat='-37.8214003' lon='144.9543615' />
+  <node id='-58' visible='true' lat='-37.8219372' lon='144.9520932' />
+  <node id='-56' visible='true' lat='-37.8219579' lon='144.9522372' />
+  <node id='-54' visible='true' lat='-37.8219542' lon='144.9523351' />
+  <node id='-52' visible='true' lat='-37.8219442' lon='144.952443' />
+  <node id='-50' visible='true' lat='-37.8219283' lon='144.9525443' />
+  <node id='-48' visible='true' lat='-37.8218049' lon='144.9529614' />
+  <node id='-46' visible='true' lat='-37.8217339' lon='144.9532222' />
+  <node id='-44' visible='true' lat='-37.8161049' lon='144.9723421' />
+  <node id='-42' visible='true' lat='-37.8160839' lon='144.9724101' />
+  <node id='-40' visible='true' lat='-37.8160546' lon='144.9725048' />
+  <node id='-38' visible='true' lat='-37.8160105' lon='144.9726539' />
+  <node id='-36' visible='true' lat='-37.8157926' lon='144.9733955' />
+  <node id='-34' visible='true' lat='-37.8156668' lon='144.973832' />
+  <node id='-32' visible='true' lat='-37.8155963' lon='144.9740679' />
+  <node id='-30' visible='true' lat='-37.8154473' lon='144.9745703' />
+  <node id='-28' visible='true' lat='-37.8154013' lon='144.974754' />
+  <node id='-26' visible='true' lat='-37.815379' lon='144.9748765' />
+  <node id='-24' visible='true' lat='-37.815369' lon='144.9750202' />
+  <node id='-22' visible='true' lat='-37.8152367' lon='144.9747845' />
+  <node id='-20' visible='true' lat='-37.8152487' lon='144.9747429' />
+  <node id='-18' visible='true' lat='-37.8152809' lon='144.9746318' />
+  <node id='-16' visible='true' lat='-37.8155142' lon='144.9738261' />
+  <node id='-14' visible='true' lat='-37.8155797' lon='144.9736' />
+  <node id='-12' visible='true' lat='-37.8156114' lon='144.9734903' />
+  <node id='-10' visible='true' lat='-37.8159167' lon='144.9724358' />
+  <node id='-8' visible='true' lat='-37.8159637' lon='144.9722723' />
+  <way id='-390' visible='true'>
+    <nd ref='-272' />
+    <nd ref='-346' />
+    <nd ref='-348' />
+    <nd ref='-126' />
+    <tag k='@id' v='way/399136064' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='4 m' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-388' visible='true'>
+    <nd ref='-136' />
+    <nd ref='-340' />
+    <nd ref='-342' />
+    <nd ref='-344' />
+    <nd ref='-160' />
+    <tag k='@id' v='way/386570592' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-386' action='modify' visible='true'>
+    <nd ref='-70' />
+    <nd ref='-338' />
+    <nd ref='-336' />
+    <nd ref='-334' />
+    <nd ref='-332' />
+    <nd ref='-330' />
+    <nd ref='-328' />
+    <nd ref='-326' />
+    <nd ref='-324' />
+    <nd ref='-322' />
+    <nd ref='-320' />
+    <nd ref='-318' />
+    <nd ref='-316' />
+    <nd ref='-314' />
+    <nd ref='-312' />
+    <nd ref='-310' />
+    <nd ref='-308' />
+    <nd ref='-306' />
+    <nd ref='-304' />
+    <nd ref='-302' />
+    <nd ref='-300' />
+    <nd ref='-298' />
+    <nd ref='-296' />
+    <nd ref='-294' />
+    <nd ref='-292' />
+    <nd ref='-290' />
+    <nd ref='-288' />
+    <nd ref='-190' />
+    <tag k='@id' v='way/386416108' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-384' action='modify' visible='true'>
+    <nd ref='-188' />
+    <nd ref='-286' />
+    <nd ref='-284' />
+    <nd ref='-282' />
+    <nd ref='-280' />
+    <nd ref='-278' />
+    <nd ref='-276' />
+    <nd ref='-274' />
+    <nd ref='-124' />
+    <tag k='@id' v='way/296399431' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-382' visible='true'>
+    <nd ref='-194' />
+    <nd ref='-196' />
+    <nd ref='-198' />
+    <nd ref='-200' />
+    <nd ref='-202' />
+    <nd ref='-204' />
+    <nd ref='-206' />
+    <nd ref='-208' />
+    <nd ref='-210' />
+    <nd ref='-212' />
+    <nd ref='-214' />
+    <nd ref='-216' />
+    <nd ref='-218' />
+    <nd ref='-220' />
+    <nd ref='-222' />
+    <nd ref='-224' />
+    <nd ref='-226' />
+    <nd ref='-228' />
+    <nd ref='-230' />
+    <nd ref='-232' />
+    <nd ref='-234' />
+    <nd ref='-236' />
+    <nd ref='-238' />
+    <nd ref='-240' />
+    <nd ref='-242' />
+    <nd ref='-244' />
+    <nd ref='-246' />
+    <nd ref='-248' />
+    <nd ref='-250' />
+    <nd ref='-252' />
+    <nd ref='-254' />
+    <nd ref='-256' />
+    <nd ref='-258' />
+    <nd ref='-260' />
+    <nd ref='-262' />
+    <nd ref='-264' />
+    <nd ref='-266' />
+    <nd ref='-268' />
+    <nd ref='-270' />
+    <nd ref='-272' />
+    <tag k='@id' v='way/296383969' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='4.2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-380' visible='true'>
+    <nd ref='-186' />
+    <nd ref='-192' />
+    <nd ref='-194' />
+    <tag k='@id' v='way/296383692' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-378' action='modify' visible='true'>
+    <nd ref='-190' />
+    <nd ref='-188' />
+    <tag k='@id' v='way/296383690' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-376' visible='true'>
+    <nd ref='-162' />
+    <nd ref='-164' />
+    <nd ref='-166' />
+    <nd ref='-168' />
+    <nd ref='-170' />
+    <nd ref='-172' />
+    <nd ref='-174' />
+    <nd ref='-176' />
+    <nd ref='-178' />
+    <nd ref='-180' />
+    <nd ref='-182' />
+    <nd ref='-184' />
+    <nd ref='-186' />
+    <tag k='@id' v='way/295476230' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-374' visible='true'>
+    <nd ref='-160' />
+    <nd ref='-162' />
+    <tag k='@id' v='way/295476229' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-372' visible='true'>
+    <nd ref='-58' />
+    <nd ref='-138' />
+    <tag k='@id' v='way/258070011' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-370' action='modify' visible='true'>
+    <nd ref='-142' />
+    <nd ref='-158' />
+    <nd ref='-156' />
+    <nd ref='-154' />
+    <nd ref='-152' />
+    <nd ref='-140' />
+    <tag k='@id' v='way/258070010' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30;T 2' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-368' action='modify' visible='true'>
+    <nd ref='-78' />
+    <nd ref='-150' />
+    <nd ref='-148' />
+    <nd ref='-146' />
+    <nd ref='-144' />
+    <nd ref='-142' />
+    <tag k='@id' v='way/210177006' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='4 m' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30;T 2' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-366' action='modify' visible='true'>
+    <nd ref='-140' />
+    <nd ref='-138' />
+    <tag k='@id' v='way/207277771' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30;T 2' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-364' visible='true'>
+    <nd ref='-44' />
+    <nd ref='-132' />
+    <nd ref='-134' />
+    <nd ref='-136' />
+    <tag k='@id' v='way/198715270' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-362' visible='true'>
+    <nd ref='-126' />
+    <nd ref='-128' />
+    <nd ref='-130' />
+    <nd ref='-60' />
+    <tag k='@id' v='way/198715024' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='4 m' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-360' action='modify' visible='true'>
+    <nd ref='-124' />
+    <nd ref='-122' />
+    <nd ref='-120' />
+    <nd ref='-118' />
+    <nd ref='-116' />
+    <nd ref='-114' />
+    <nd ref='-112' />
+    <nd ref='-110' />
+    <nd ref='-108' />
+    <nd ref='-106' />
+    <nd ref='-104' />
+    <nd ref='-102' />
+    <nd ref='-100' />
+    <nd ref='-98' />
+    <nd ref='-96' />
+    <nd ref='-94' />
+    <nd ref='-92' />
+    <nd ref='-90' />
+    <nd ref='-88' />
+    <nd ref='-86' />
+    <nd ref='-84' />
+    <nd ref='-82' />
+    <nd ref='-80' />
+    <nd ref='-78' />
+    <tag k='@id' v='way/198715023' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='4.2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-358' action='modify' visible='true'>
+    <nd ref='-8' />
+    <nd ref='-76' />
+    <nd ref='-74' />
+    <nd ref='-72' />
+    <nd ref='-70' />
+    <tag k='@id' v='way/187918252' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-356' visible='true'>
+    <nd ref='-60' />
+    <nd ref='-62' />
+    <nd ref='-64' />
+    <nd ref='-66' />
+    <nd ref='-68' />
+    <nd ref='-46' />
+    <tag k='@id' v='way/134621882' />
+    <tag k='highway' v='tertiary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30;T 2' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-354' visible='true'>
+    <nd ref='-46' />
+    <nd ref='-48' />
+    <nd ref='-50' />
+    <nd ref='-52' />
+    <nd ref='-54' />
+    <nd ref='-56' />
+    <nd ref='-58' />
+    <tag k='@id' v='way/46228423' />
+    <tag k='highway' v='tertiary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-352' visible='true'>
+    <nd ref='-24' />
+    <nd ref='-26' />
+    <nd ref='-28' />
+    <nd ref='-30' />
+    <nd ref='-32' />
+    <nd ref='-34' />
+    <nd ref='-36' />
+    <nd ref='-38' />
+    <nd ref='-40' />
+    <nd ref='-42' />
+    <nd ref='-44' />
+    <tag k='@id' v='way/46225230' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-350' action='modify' visible='true'>
+    <nd ref='-22' />
+    <nd ref='-20' />
+    <nd ref='-18' />
+    <nd ref='-16' />
+    <nd ref='-14' />
+    <nd ref='-12' />
+    <nd ref='-10' />
+    <nd ref='-8' />
+    <tag k='@id' v='way/8038155' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Flinders Street' />
+    <tag k='network' v='S' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S 30' />
+    <tag k='surface' v='asphalt' />
+  </way>
+</osm>

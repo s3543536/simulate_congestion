@@ -1,0 +1,602 @@
+
+<osm version="0.6" generator="geojsontoosm">
+<node id="-1" lat="-37.8159637" lon="144.97227230000001"/>
+<node id="-2" lat="-37.8159167" lon="144.97243580000003"/>
+<node id="-3" lat="-37.815611399999995" lon="144.9734903"/>
+<node id="-4" lat="-37.8155797" lon="144.97359999999998"/>
+<node id="-5" lat="-37.8155142" lon="144.9738261"/>
+<node id="-6" lat="-37.8152809" lon="144.9746318"/>
+<node id="-7" lat="-37.8152487" lon="144.9747429"/>
+<node id="-8" lat="-37.8152367" lon="144.97478449999997"/>
+<node id="-9" lat="-37.815369" lon="144.9750202"/>
+<node id="-10" lat="-37.815379" lon="144.9748765"/>
+<node id="-11" lat="-37.8154013" lon="144.97475399999996"/>
+<node id="-12" lat="-37.815447299999995" lon="144.97457029999998"/>
+<node id="-13" lat="-37.8155963" lon="144.9740679"/>
+<node id="-14" lat="-37.815666799999995" lon="144.973832"/>
+<node id="-15" lat="-37.8157926" lon="144.97339549999998"/>
+<node id="-16" lat="-37.8160105" lon="144.97265389999998"/>
+<node id="-17" lat="-37.816054599999994" lon="144.9725048"/>
+<node id="-18" lat="-37.816083899999995" lon="144.97241010000002"/>
+<node id="-19" lat="-37.8161049" lon="144.97234210000002"/>
+<node id="-20" lat="-37.821733900000005" lon="144.9532222"/>
+<node id="-21" lat="-37.8218049" lon="144.95296140000002"/>
+<node id="-22" lat="-37.8219283" lon="144.95254430000003"/>
+<node id="-23" lat="-37.8219442" lon="144.95244300000005"/>
+<node id="-24" lat="-37.8219542" lon="144.95233510000003"/>
+<node id="-25" lat="-37.8219579" lon="144.95223720000004"/>
+<node id="-26" lat="-37.8219372" lon="144.9520932"/>
+<node id="-27" lat="-37.8214003" lon="144.9543615"/>
+<node id="-28" lat="-37.821432300000005" lon="144.9542515"/>
+<node id="-29" lat="-37.8214827" lon="144.95407780000002"/>
+<node id="-30" lat="-37.8215397" lon="144.95384890000003"/>
+<node id="-31" lat="-37.8216303" lon="144.95358119999997"/>
+<node id="-32" lat="-37.8167058" lon="144.96979259999998"/>
+<node id="-33" lat="-37.8166527" lon="144.96997059999998"/>
+<node id="-34" lat="-37.81654699999999" lon="144.9703239"/>
+<node id="-35" lat="-37.81600039999999" lon="144.97214980000004"/>
+<node id="-36" lat="-37.8210097" lon="144.9549332"/>
+<node id="-37" lat="-37.8209978" lon="144.9549805"/>
+<node id="-38" lat="-37.8209917" lon="144.9550047"/>
+<node id="-39" lat="-37.8209833" lon="144.95503760000003"/>
+<node id="-40" lat="-37.8209742" lon="144.9550739"/>
+<node id="-41" lat="-37.8209609" lon="144.95512650000003"/>
+<node id="-42" lat="-37.8209432" lon="144.95518610000002"/>
+<node id="-43" lat="-37.8208911" lon="144.9553632"/>
+<node id="-44" lat="-37.82072" lon="144.9559442"/>
+<node id="-45" lat="-37.8204972" lon="144.95670890000002"/>
+<node id="-46" lat="-37.8204088" lon="144.95701110000002"/>
+<node id="-47" lat="-37.820314800000006" lon="144.95733140000004"/>
+<node id="-48" lat="-37.8203066" lon="144.95736180000003"/>
+<node id="-49" lat="-37.8202785" lon="144.95743400000003"/>
+<node id="-50" lat="-37.820221499999995" lon="144.95757369999998"/>
+<node id="-51" lat="-37.82019830000001" lon="144.957654"/>
+<node id="-52" lat="-37.8200286" lon="144.95821870000003"/>
+<node id="-53" lat="-37.81979439999999" lon="144.9590356"/>
+<node id="-54" lat="-37.8195852" lon="144.95976259999998"/>
+<node id="-55" lat="-37.819544699999994" lon="144.9599034"/>
+<node id="-56" lat="-37.819497999999996" lon="144.960084"/>
+<node id="-57" lat="-37.819291099999994" lon="144.96088459999999"/>
+<node id="-58" lat="-37.81928439999999" lon="144.9609106"/>
+<node id="-59" lat="-37.81926159999999" lon="144.96099900000002"/>
+<node id="-60" lat="-37.8211755" lon="144.9549802"/>
+<node id="-61" lat="-37.8211946" lon="144.9549192"/>
+<node id="-62" lat="-37.8212951" lon="144.954598"/>
+<node id="-63" lat="-37.8164339" lon="144.97122140000002"/>
+<node id="-64" lat="-37.8167499" lon="144.9701449"/>
+<node id="-65" lat="-37.816796599999996" lon="144.9699858"/>
+<node id="-66" lat="-37.8217763" lon="144.95191590000002"/>
+<node id="-67" lat="-37.821765" lon="144.95226710000003"/>
+<node id="-68" lat="-37.8213897" lon="144.95362519999998"/>
+<node id="-69" lat="-37.8213485" lon="144.9537613"/>
+<node id="-70" lat="-37.821217399999995" lon="144.95424210000002"/>
+<node id="-71" lat="-37.821042399999996" lon="144.9548196"/>
+<node id="-72" lat="-37.8210279" lon="144.9548593"/>
+<node id="-73" lat="-37.8217542" lon="144.95237770000003"/>
+<node id="-74" lat="-37.821712100000006" lon="144.9525596"/>
+<node id="-75" lat="-37.8215629" lon="144.953066"/>
+<node id="-76" lat="-37.8214326" lon="144.95348690000003"/>
+<node id="-77" lat="-37.817513399999996" lon="144.96754860000001"/>
+<node id="-78" lat="-37.8175628" lon="144.96739060000002"/>
+<node id="-79" lat="-37.81761449999999" lon="144.96722100000002"/>
+<node id="-80" lat="-37.817864499999985" lon="144.9663502"/>
+<node id="-81" lat="-37.817940199999995" lon="144.9660917"/>
+<node id="-82" lat="-37.817950499999995" lon="144.9660565"/>
+<node id="-83" lat="-37.8181984" lon="144.9652105"/>
+<node id="-84" lat="-37.8182151" lon="144.9651534"/>
+<node id="-85" lat="-37.818226599999996" lon="144.9651144"/>
+<node id="-86" lat="-37.8182959" lon="144.9648777"/>
+<node id="-87" lat="-37.818302800000005" lon="144.96485429999998"/>
+<node id="-88" lat="-37.8184937" lon="144.9642026"/>
+<node id="-89" lat="-37.8189256" lon="144.96272890000003"/>
+<node id="-90" lat="-37.8189792" lon="144.96254580000002"/>
+<node id="-91" lat="-37.818856399999994" lon="144.96239890000004"/>
+<node id="-92" lat="-37.818811499999995" lon="144.9625514"/>
+<node id="-93" lat="-37.8191424" lon="144.9620007"/>
+<node id="-94" lat="-37.819278999999995" lon="144.9615442"/>
+<node id="-95" lat="-37.8193704" lon="144.9612317"/>
+<node id="-96" lat="-37.8193792" lon="144.96120180000003"/>
+<node id="-97" lat="-37.8193926" lon="144.9611525"/>
+<node id="-98" lat="-37.819402" lon="144.96111830000004"/>
+<node id="-99" lat="-37.81942099999999" lon="144.96104850000003"/>
+<node id="-100" lat="-37.8194373" lon="144.9609862"/>
+<node id="-101" lat="-37.8196158" lon="144.96030240000002"/>
+<node id="-102" lat="-37.81964299999999" lon="144.9601982"/>
+<node id="-103" lat="-37.8197185" lon="144.95990890000002"/>
+<node id="-104" lat="-37.8197791" lon="144.95965369999996"/>
+<node id="-105" lat="-37.8199269" lon="144.95905"/>
+<node id="-106" lat="-37.8199719" lon="144.95890300000002"/>
+<node id="-107" lat="-37.8200136" lon="144.95877330000002"/>
+<node id="-108" lat="-37.8200673" lon="144.95861240000002"/>
+<node id="-109" lat="-37.8201066" lon="144.95850640000003"/>
+<node id="-110" lat="-37.8201546" lon="144.95839140000004"/>
+<node id="-111" lat="-37.8202016" lon="144.95826910000002"/>
+<node id="-112" lat="-37.8202592" lon="144.95813210000003"/>
+<node id="-113" lat="-37.82031990000001" lon="144.9579532"/>
+<node id="-114" lat="-37.8203636" lon="144.95778330000002"/>
+<node id="-115" lat="-37.8203771" lon="144.95773620000003"/>
+<node id="-116" lat="-37.8203966" lon="144.9576584"/>
+<node id="-117" lat="-37.8204349" lon="144.95749900000004"/>
+<node id="-118" lat="-37.8204541" lon="144.95742070000003"/>
+<node id="-119" lat="-37.8204661" lon="144.95736830000004"/>
+<node id="-120" lat="-37.820488499999996" lon="144.95727130000003"/>
+<node id="-121" lat="-37.820496399999996" lon="144.95723890000005"/>
+<node id="-122" lat="-37.8206097" lon="144.95685469999998"/>
+<node id="-123" lat="-37.8206455" lon="144.95673250000002"/>
+<node id="-124" lat="-37.820664799999996" lon="144.95666730000002"/>
+<node id="-125" lat="-37.8208049" lon="144.95619530000002"/>
+<node id="-126" lat="-37.820827599999994" lon="144.95611870000002"/>
+<node id="-127" lat="-37.82086749999999" lon="144.95600000000002"/>
+<node id="-128" lat="-37.8209248" lon="144.9558626"/>
+<node id="-129" lat="-37.820961" lon="144.95576469999997"/>
+<node id="-130" lat="-37.821003999999995" lon="144.9556207"/>
+<node id="-131" lat="-37.8210903" lon="144.9553112"/>
+<node id="-132" lat="-37.8211046" lon="144.9552586"/>
+<node id="-133" lat="-37.8211212" lon="144.95519800000002"/>
+<node id="-134" lat="-37.81924739999999" lon="144.96104810000003"/>
+<node id="-135" lat="-37.81923749999999" lon="144.96108230000002"/>
+<node id="-136" lat="-37.819223599999994" lon="144.96113030000004"/>
+<node id="-137" lat="-37.819201699999994" lon="144.9612059"/>
+<node id="-138" lat="-37.819178" lon="144.9612877"/>
+<node id="-139" lat="-37.819133300000004" lon="144.96144220000002"/>
+<node id="-140" lat="-37.8190083" lon="144.9618741"/>
+<node id="-141" lat="-37.818701" lon="144.96293210000002"/>
+<node id="-142" lat="-37.8186767" lon="144.96301569999997"/>
+<node id="-143" lat="-37.8183458" lon="144.9641397"/>
+<node id="-144" lat="-37.8182286" lon="144.96455409999996"/>
+<node id="-145" lat="-37.818176300000005" lon="144.9647321"/>
+<node id="-146" lat="-37.8181438" lon="144.9648496"/>
+<node id="-147" lat="-37.8181184" lon="144.96493180000002"/>
+<node id="-148" lat="-37.818094499999994" lon="144.9650143"/>
+<node id="-149" lat="-37.818073999999996" lon="144.96508509999998"/>
+<node id="-150" lat="-37.81784179999999" lon="144.965882"/>
+<node id="-151" lat="-37.817806299999994" lon="144.9660039"/>
+<node id="-152" lat="-37.81778489999999" lon="144.96607730000002"/>
+<node id="-153" lat="-37.8175952" lon="144.96672850000002"/>
+<node id="-154" lat="-37.817478099999995" lon="144.9671307"/>
+<node id="-155" lat="-37.81744409999999" lon="144.96724730000005"/>
+<node id="-156" lat="-37.817402599999994" lon="144.96739190000002"/>
+<node id="-157" lat="-37.817397199999995" lon="144.96740840000004"/>
+<node id="-158" lat="-37.8173931" lon="144.96742250000003"/>
+<node id="-159" lat="-37.817388699999995" lon="144.96743740000005"/>
+<node id="-160" lat="-37.81738439999999" lon="144.96745230000002"/>
+<node id="-161" lat="-37.8173557" lon="144.96755149999998"/>
+<node id="-162" lat="-37.817286399999986" lon="144.9677858"/>
+<node id="-163" lat="-37.8172189" lon="144.96801390000002"/>
+<node id="-164" lat="-37.8171622" lon="144.96820580000002"/>
+<node id="-165" lat="-37.81684419999999" lon="144.9693154"/>
+<node id="-166" lat="-37.8167372" lon="144.96968429999998"/>
+<node id="-167" lat="-37.8169759" lon="144.9693762"/>
+<node id="-168" lat="-37.81747049999999" lon="144.9676941"/>
+<node id="-169" lat="-37.81748859999999" lon="144.9676326"/>
+<node id="-170" lat="-37.8211416" lon="144.95511610000003"/>
+<node id="-171" lat="-37.821158100000005" lon="144.95504980000004"/>
+<way id="-1">
+<nd ref="-1"/>
+<nd ref="-2"/>
+<nd ref="-3"/>
+<nd ref="-4"/>
+<nd ref="-5"/>
+<nd ref="-6"/>
+<nd ref="-7"/>
+<nd ref="-8"/>
+<tag k="@id" v="way/8038155"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-2">
+<nd ref="-9"/>
+<nd ref="-10"/>
+<nd ref="-11"/>
+<nd ref="-12"/>
+<nd ref="-13"/>
+<nd ref="-14"/>
+<nd ref="-15"/>
+<nd ref="-16"/>
+<nd ref="-17"/>
+<nd ref="-18"/>
+<nd ref="-19"/>
+<tag k="@id" v="way/46225230"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="1"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-3">
+<nd ref="-20"/>
+<nd ref="-21"/>
+<nd ref="-22"/>
+<nd ref="-23"/>
+<nd ref="-24"/>
+<nd ref="-25"/>
+<nd ref="-26"/>
+<tag k="@id" v="way/46228423"/>
+<tag k="highway" v="tertiary"/>
+<tag k="maxspeed" v="50"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-4">
+<nd ref="-27"/>
+<nd ref="-28"/>
+<nd ref="-29"/>
+<nd ref="-30"/>
+<nd ref="-31"/>
+<nd ref="-20"/>
+<tag k="@id" v="way/134621882"/>
+<tag k="highway" v="tertiary"/>
+<tag k="maxspeed" v="50"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30;T 2"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-5">
+<nd ref="-32"/>
+<nd ref="-33"/>
+<nd ref="-34"/>
+<nd ref="-35"/>
+<nd ref="-1"/>
+<tag k="@id" v="way/187918252"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-6">
+<nd ref="-36"/>
+<nd ref="-37"/>
+<nd ref="-38"/>
+<nd ref="-39"/>
+<nd ref="-40"/>
+<nd ref="-41"/>
+<nd ref="-42"/>
+<nd ref="-43"/>
+<nd ref="-44"/>
+<nd ref="-45"/>
+<nd ref="-46"/>
+<nd ref="-47"/>
+<nd ref="-48"/>
+<nd ref="-49"/>
+<nd ref="-50"/>
+<nd ref="-51"/>
+<nd ref="-52"/>
+<nd ref="-53"/>
+<nd ref="-54"/>
+<nd ref="-55"/>
+<nd ref="-56"/>
+<nd ref="-57"/>
+<nd ref="-58"/>
+<nd ref="-59"/>
+<tag k="@id" v="way/198715023"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxheight" v="4.2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-7">
+<nd ref="-60"/>
+<nd ref="-61"/>
+<nd ref="-62"/>
+<nd ref="-27"/>
+<tag k="@id" v="way/198715024"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxheight" v="4 m"/>
+<tag k="maxspeed" v="50"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-8">
+<nd ref="-19"/>
+<nd ref="-63"/>
+<nd ref="-64"/>
+<nd ref="-65"/>
+<tag k="@id" v="way/198715270"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-9">
+<nd ref="-66"/>
+<nd ref="-67"/>
+<tag k="@id" v="way/207277771"/>
+<tag k="cycleway" v="lane"/>
+<tag k="highway" v="trunk"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="50"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30;T 2"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-10">
+<nd ref="-68"/>
+<nd ref="-69"/>
+<nd ref="-70"/>
+<nd ref="-71"/>
+<nd ref="-72"/>
+<nd ref="-36"/>
+<tag k="@id" v="way/210177006"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxheight" v="4 m"/>
+<tag k="maxspeed" v="50"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30;T 2"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-11">
+<nd ref="-67"/>
+<nd ref="-73"/>
+<nd ref="-74"/>
+<nd ref="-75"/>
+<nd ref="-76"/>
+<nd ref="-68"/>
+<tag k="@id" v="way/258070010"/>
+<tag k="cycleway" v="lane"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="50"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30;T 2"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-12">
+<nd ref="-26"/>
+<nd ref="-66"/>
+<tag k="@id" v="way/258070011"/>
+<tag k="cycleway" v="lane"/>
+<tag k="highway" v="trunk"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="50"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-13">
+<nd ref="-77"/>
+<nd ref="-78"/>
+<tag k="@id" v="way/295476229"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-14">
+<nd ref="-78"/>
+<nd ref="-79"/>
+<nd ref="-80"/>
+<nd ref="-81"/>
+<nd ref="-82"/>
+<nd ref="-83"/>
+<nd ref="-84"/>
+<nd ref="-85"/>
+<nd ref="-86"/>
+<nd ref="-87"/>
+<nd ref="-88"/>
+<nd ref="-89"/>
+<nd ref="-90"/>
+<tag k="@id" v="way/295476230"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-15">
+<nd ref="-91"/>
+<nd ref="-92"/>
+<tag k="@id" v="way/296383690"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-16">
+<nd ref="-90"/>
+<nd ref="-93"/>
+<nd ref="-94"/>
+<tag k="@id" v="way/296383692"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-17">
+<nd ref="-94"/>
+<nd ref="-95"/>
+<nd ref="-96"/>
+<nd ref="-97"/>
+<nd ref="-98"/>
+<nd ref="-99"/>
+<nd ref="-100"/>
+<nd ref="-101"/>
+<nd ref="-102"/>
+<nd ref="-103"/>
+<nd ref="-104"/>
+<nd ref="-105"/>
+<nd ref="-106"/>
+<nd ref="-107"/>
+<nd ref="-108"/>
+<nd ref="-109"/>
+<nd ref="-110"/>
+<nd ref="-111"/>
+<nd ref="-112"/>
+<nd ref="-113"/>
+<nd ref="-114"/>
+<nd ref="-115"/>
+<nd ref="-116"/>
+<nd ref="-117"/>
+<nd ref="-118"/>
+<nd ref="-119"/>
+<nd ref="-120"/>
+<nd ref="-121"/>
+<nd ref="-122"/>
+<nd ref="-123"/>
+<nd ref="-124"/>
+<nd ref="-125"/>
+<nd ref="-126"/>
+<nd ref="-127"/>
+<nd ref="-128"/>
+<nd ref="-129"/>
+<nd ref="-130"/>
+<nd ref="-131"/>
+<nd ref="-132"/>
+<nd ref="-133"/>
+<tag k="@id" v="way/296383969"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxheight" v="4.2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-18">
+<nd ref="-59"/>
+<nd ref="-134"/>
+<nd ref="-135"/>
+<nd ref="-136"/>
+<nd ref="-137"/>
+<nd ref="-138"/>
+<nd ref="-139"/>
+<nd ref="-140"/>
+<nd ref="-91"/>
+<tag k="@id" v="way/296399431"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-19">
+<nd ref="-92"/>
+<nd ref="-141"/>
+<nd ref="-142"/>
+<nd ref="-143"/>
+<nd ref="-144"/>
+<nd ref="-145"/>
+<nd ref="-146"/>
+<nd ref="-147"/>
+<nd ref="-148"/>
+<nd ref="-149"/>
+<nd ref="-150"/>
+<nd ref="-151"/>
+<nd ref="-152"/>
+<nd ref="-153"/>
+<nd ref="-154"/>
+<nd ref="-155"/>
+<nd ref="-156"/>
+<nd ref="-157"/>
+<nd ref="-158"/>
+<nd ref="-159"/>
+<nd ref="-160"/>
+<nd ref="-161"/>
+<nd ref="-162"/>
+<nd ref="-163"/>
+<nd ref="-164"/>
+<nd ref="-165"/>
+<nd ref="-166"/>
+<nd ref="-32"/>
+<tag k="@id" v="way/386416108"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-20">
+<nd ref="-65"/>
+<nd ref="-167"/>
+<nd ref="-168"/>
+<nd ref="-169"/>
+<nd ref="-77"/>
+<tag k="@id" v="way/386570592"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+<way id="-21">
+<nd ref="-133"/>
+<nd ref="-170"/>
+<nd ref="-171"/>
+<nd ref="-60"/>
+<tag k="@id" v="way/399136064"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="maxheight" v="4 m"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Flinders Street"/>
+<tag k="network" v="S"/>
+<tag k="oneway" v="yes"/>
+<tag k="ref" v="S 30"/>
+<tag k="surface" v="asphalt"/>
+</way>
+</osm>
