@@ -2,5 +2,12 @@
     <input>
        <net-file value="flinders.net.xml"/>
        <route-files value="flinders.rou.xml"/>
+	   <additional-files value="flinders.poly.xml"/>
     </input>
+
+	<time>
+	   <begin value="0"/>
+	   <end value="1000"/>
+	   <step-length value="0.1"/>
+	</time>
 </configuration>
