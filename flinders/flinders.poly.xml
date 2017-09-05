@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on Tue Sep  5 13:59:52 2017 by SUMO polyconvert Version 0.21.0
+<!-- generated on Tue Sep  5 17:20:08 2017 by SUMO polyconvert Version 0.30.0
 <?xml version="1.0" encoding="UTF-8"?>
 
-<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/polyconvertConfiguration.xsd">
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
 
     <input>
         <net-file value="flinders.net.xml"/>
@@ -15,10 +15,16 @@
         <output-file value="flinders.poly.xml"/>
     </output>
 
+    <processing>
+        <poi-layer-offset value="5"/>
+    </processing>
+
 </configuration>
 -->
 
-<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/additional_file.xsd">
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <location netOffset="-319739.77,4188036.65" convBoundary="-0.00,-0.00,2018.30,789.10" origBoundary="144.951916,-37.821958,144.975020,-37.815237" projParameter="+proj=utm +zone=55 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
     <poly id="-1" type="unknown" color="51,128,255" fill="0" layer="-1.00" shape="1777.83,703.63 1792.11,709.15 1884.21,745.05 1893.79,748.77 1913.53,756.47 1983.90,783.90 1993.60,787.69 1997.23,789.10"/>
     <poly id="-10" type="unknown" color="51,128,255" fill="0" layer="-1.00" shape="149.52,65.72 161.40,70.56 203.40,86.03 253.81,106.57 257.27,108.25 263.73,110.41"/>
     <poly id="-11" type="unknown" color="51,128,255" fill="0" layer="-1.00" shape="30.89,21.46 40.59,22.87 56.50,27.89 100.72,45.43 137.45,60.70 149.52,65.72"/>
