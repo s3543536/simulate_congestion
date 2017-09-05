@@ -1,6 +1,6 @@
 <configuration>
     <input>
-       <net-file value="flinders.net.xml">
-       <route-files value="flinders.rou.xml">
+       <net-file value="flinders.net.xml"/>
+       <route-files value="flinders.rou.xml"/>
     </input>
 </configuration>
